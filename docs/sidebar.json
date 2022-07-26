@@ -1,0 +1,10 @@
+{
+  "nbdev_intro": {
+    "Overview": "/",
+    "module name here": "core.html",
+    "Advantages of Jupyter": "advantages.html",
+    "Disadvantages": "caveats.html",
+    "nbdev": "nbdev.html",
+    "Getting started with Jupyter": "Getting started.html"
+  }
+}
